@@ -31,7 +31,7 @@ function Contact() {
                         href="mailto:monjuralahi283@gmail.com"
                         className="bg-[#F5F7F2] border border-[#D5DDD5] rounded-2xl p-8 hover:border-[#3F6B4F] transition text-center"
                     >
-                        <h3 className="text-2xl font-semibold text-[#20251F] mb-3">
+                        <h3 className="text-xl font-semibold text-[#20251F] mb-3">
                             Email
                         </h3>
 
@@ -47,7 +47,7 @@ function Contact() {
                         rel="noopener noreferrer"
                         className="bg-[#F5F7F2] border border-[#D5DDD5] rounded-2xl p-8 hover:border-[#3F6B4F] transition text-center"
                     >
-                        <h3 className="text-2xl font-semibold text-[#20251F] mb-3">
+                        <h3 className="text-xl font-semibold text-[#20251F] mb-3">
                             GitHub
                         </h3>
 
@@ -63,7 +63,7 @@ function Contact() {
                         rel="noopener noreferrer"
                         className="bg-[#F5F7F2] border border-[#D5DDD5] rounded-2xl p-8 hover:border-[#3F6B4F] transition text-center"
                     >
-                        <h3 className="text-2xl font-semibold text-[#20251F] mb-3">
+                        <h3 className="text-xl font-semibold text-[#20251F] mb-3">
                             LinkedIn
                         </h3>
 
