@@ -9,7 +9,7 @@ function Projects() {
                 {/* Section Heading */}
                 <div className="text-center mb-12">
                     <p className="text-xl text-[#3F6B4F] font-medium font-semibold mb-1">
-                        My Work
+                        Projects I have done
                     </p>
 
                     <h2 className="text-5xl md:text-5xl font-bold text-[#20251F]">
@@ -17,7 +17,7 @@ function Projects() {
                     </h2>
 
                     <p className="text-xl text-[#667066] font-medium mt-2">
-                        Here are some of the projects I have worked on.
+                        Here are some of the projects I have worked on and some projects are under development
                     </p>
                 </div>
 

@@ -9,7 +9,7 @@ function Skills() {
                 {/* Section Heading */}
                 <div className="text-center mb-16">
                     <p className=" text-xl text-[#3F6B4F] font-semibold  mb-2">
-                        What I Know
+                        I always learn new things
                     </p>
 
                     <h2 className="text-5xl md:text-5xl font-bold text-[#20251F]">

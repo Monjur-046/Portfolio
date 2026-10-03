@@ -1,3 +1,5 @@
+import certificateImage from "../assets/certificate.jpeg"
+
 function About() {
     return (
         <section
@@ -6,10 +8,10 @@ function About() {
         >
             <div className="max-w-6xl mx-auto">
 
-                {/* Section Title */}
+                
                 <div className="text-center mb-16">
-                    <p className="text-[#3F6B4F] font-medium mb-2">
-                        Get To Know Me
+                    <p className="text-xl text-[#3F6B4F] font-semibold font-medium mb-2">
+                        know more
                     </p>
 
                    <h2 className="text-4xl md:text-5xl font-bold text-[#20251F]">
@@ -17,17 +19,17 @@ function About() {
                     </h2>
                 </div>
 
-                {/* About Content */}
+                
                 <div className="grid md:grid-cols-2 gap-12 items-start">
 
                     {/* Text */}
                     <div className="bg-white border border-[#D5DDD5] rounded-2xl p-8">
                         <h3 className="text-2xl font-semibold text-[#20251F] mb-6">
-                            Who I Am
+                            I am Monjur E Alahi
                         </h3>
 
                         <p className="text-[#667066] leading-relaxed mb-6">
-                            I am Monjur E Alahi, an undergraduate student studying
+                            an undergraduate student studying
                             Computer Science & Engineering at Metropolitan
                             University, Sylhet. I am currently in my 8th semester.
                         </p>
@@ -103,6 +105,39 @@ function About() {
                         </div>
                     </div>
 
+                </div>
+
+                <div className="mt-12 bg-white border border-[#D5DDD5] rounded-2xl p-8">
+                    <div className="grid md:grid-cols-2 gap-10 items-center">
+                       
+                        <div>
+                            <p className="text-[#3F6B4F] text-2xl font-medium mb-2">
+                                Extracurricular Activites 
+                            </p>
+
+                            <h3 className="text-2xl md:text-2xl font-semibold text-[#20251F] mb-6">
+                                Volunteer Director
+                                </h3>
+
+                                <p className="text-[#667066] leading-relaxed mb-5">
+                                    I had the opportunity to serve as a Volunteer Director in the "Vison & Smile - 2026" event organized by Metropolitan University Social Services Club. 
+                                </p>
+                                </div>
+
+                                {/*certificate*/}
+
+                                <div className="flex justify-center md:justify-end">
+                                    <div className="w-full max-w-lg overflow-hidden rounded-2xl border border-[#D5DDD5] shadow-sm">
+                                        <img src={certificateImage}
+                                        alt="Certificate for Volunteer Director role"
+                                        className="w-full h-auto object-contain"
+                                        />
+                                        
+
+                                    </div>
+                                </div>
+                        
+                    </div>
                 </div>
             </div>
         </section>

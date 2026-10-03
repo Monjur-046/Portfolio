@@ -8,7 +8,7 @@ function Contact() {
 
                 {/* Section Heading */}
                 <div className="text-center mb-12">
-                    <p className=" text-2xl text-[#3F6B4F] font-medium mb-2">
+                    <p className=" text-2xl text-[#3F6B4F] font-semibold font-medium mb-2">
                         Get In Touch
                     </p>
 
