@@ -9,7 +9,7 @@ function Contact() {
                 {/* Section Heading */}
                 <div className="text-center mb-12">
                     <p className=" text-2xl text-[#3F6B4F] font-semibold font-medium mb-2">
-                        Get In Touch
+                     Wanna connect 
                     </p>
 
                     <h2 className="text-4xl md:text-5xl font-bold text-[#20251F]">
@@ -29,7 +29,7 @@ function Contact() {
                     {/* Email */}
                     <a
                         href="mailto:monjuralahi283@gmail.com"
-                        className="bg-[#F5F7F2] border border-[#D5DDD5] rounded-2xl p-8 hover:border-[#3F6B4F] transition text-center"
+                        className="bg-[#F5F7F2] border border-[#D5DDD5] rounded-xl p-8 hover:border-[#3F6B4F] transition text-center"
                     >
                         <h3 className="text-xl font-semibold text-[#20251F] mb-3">
                             Email

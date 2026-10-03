@@ -68,7 +68,7 @@ function Skills() {
                         </h3>
 
                         <div className="flex flex-wrap gap-3">
-                            {["Microsoft Office"].map((skill) => (
+                            {["Microsoft Office", "Leadership", "Team Coordination"].map((skill) => (
                                 <span
                                     key={skill}
                                     className="px-4 py-2 bg-white border border-[#D5DDD5] text-[#20251F] rounded-lg"
@@ -104,6 +104,9 @@ function Skills() {
                             <span className="px-4 py-2 bg-white border border-[#D5DDD5] text-[#20251F] rounded-lg">
                                 IELTS = 6.5
                             </span>
+
+                            
+                            
                         </div>
                     </div>
 
