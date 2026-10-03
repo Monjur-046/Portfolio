@@ -56,7 +56,7 @@ function Projects() {
                         href="https://github.com/Monjur-046"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-xl inline-block px-6 py-3 bg-[#3F6B4F] text-white rounded-lg font-medium hover:bg-[#345A42] transition"
+                        className="text-xl inline-block px-6 py-3 bg-[#11afb8] text-white rounded-lg font-medium hover:bg-[#00abab] transition"
                     >
                         View on GitHub
                     </a>

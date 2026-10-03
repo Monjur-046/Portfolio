@@ -11,20 +11,20 @@ function Navbar() {
                 <div className="flex items-center justify-between">
 
                     {/* Logo */}
-                    <a
+                    {/*<a
                         href="#home"
                         className="text-2xl font-bold text-[#20251F]"
                         onClick={() => setMenuOpen(false)}
                     >
                         Monjur E Alahi
-                    </a>
+                    </a>*/}
 
                     {/* Desktop Navigation */}
                     <ul className="hidden md:flex items-center gap-8">
                         <li>
                             <a
                                 href="#home"
-                                className="text-[#667066] hover:text-[#3F6B4F] transition"
+                                className="text-[#3F6B4F] hover:text-[#3F6B4F] transition"
                             >
                                 Home
                             </a>
@@ -33,7 +33,7 @@ function Navbar() {
                         <li>
                             <a
                                 href="#about"
-                                className="text-[#667066] hover:text-[#3F6B4F] transition"
+                                className="text-[#3F6B4F] hover:text-[#3F6B4F] transition"
                             >
                                 About
                             </a>
@@ -42,7 +42,7 @@ function Navbar() {
                         <li>
                             <a
                                 href="#skills"
-                                className="text-[#667066] hover:text-[#3F6B4F] transition"
+                                className="text-[#3F6B4F] hover:text-[#3F6B4F] transition"
                             >
                                 Skills
                             </a>
@@ -51,7 +51,7 @@ function Navbar() {
                         <li>
                             <a
                                 href="#projects"
-                                className="text-[#667066] hover:text-[#3F6B4F] transition"
+                                className="text-[#3F6B4F] hover:text-[#3F6B4F] transition"
                             >
                                 Projects
                             </a>
@@ -60,7 +60,7 @@ function Navbar() {
                         <li>
                             <a
                                 href="#contact"
-                                className="text-[#667066] hover:text-[#3F6B4F] transition"
+                                className="text-[#3F6B4F] hover:text-[#3F6B4F] transition"
                             >
                                 Contact
                             </a>

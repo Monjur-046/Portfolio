@@ -32,17 +32,17 @@ function Hero() {
 
                     <a
                         href="#about"
-                        className="px-7 py-3 bg-[#3F6B4F] hover:bg-[#345A42] text-white rounded-lg font-medium transition"
+                        className="px-7 py-3 bg-[#11afb8] hover:bg-[#00abab] text-white rounded-lg font-medium transition"
                     >
-                        Learn More About Me
+                        Learn More About Me  
                     </a>
 
-                    <a
+                   {/* <a
                         href="#contact"
                         className="px-7 py-3 bg-[#3F6B4F] hover:bg-[#345A42] text-white rounded-lg font-medium transition"
                     >
                         Contact Me
-                    </a>
+                    </a>*/}
 
                 </div>
 

@@ -12,7 +12,7 @@ function About() {
                         Get To Know Me
                     </p>
 
-                    <h2 className="text-4xl md:text-5xl font-bold text-[#20251F]">
+                   <h2 className="text-4xl md:text-5xl font-bold text-[#20251F]">
                         About Me
                     </h2>
                 </div>
